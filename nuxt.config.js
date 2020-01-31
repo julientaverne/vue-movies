@@ -11,8 +11,8 @@ module.exports = {
   env: {
     FRONTEND_URL: process.env.FRONTEND_URL || '',
     API_KEY: process.env.API_KEY || '',
-    API_LANG: process.env.API_LANG || 'en-US',
-    API_COUNTRY: process.env.API_COUNTRY || 'GB',
+    API_LANG: process.env.API_LANG || 'fr-FR',
+    API_COUNTRY: process.env.API_COUNTRY || 'FR',
     API_YOUTUBE_KEY: process.env.API_YOUTUBE_KEY || '',
     GA: process.env.GA || '',
   },
